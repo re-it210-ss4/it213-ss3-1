@@ -1,7 +1,5 @@
 # BÁO CÁO BÀI TẬP LỚN: PHÁT TRIỂN VÀ CẤU HÌNH HỆ THỐNG HYBRID AI - R-LOGISTICS
 
-**Họ và tên:** Nguyễn Thị Yến  
-**Mã sinh viên:** B24DTCN180  
 
 ---
 
